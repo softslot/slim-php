@@ -12,5 +12,7 @@
             "email": "sawnet@mail.ru"
         }
     ],
-    "require": {}
+    "require": {
+        "slim/slim": "^4.9"
+    }
 }
