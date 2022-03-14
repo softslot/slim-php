@@ -1,0 +1,16 @@
+{
+    "name": "saw/slim-php",
+    "description": "Slim Framework",
+    "autoload": {
+        "psr-4": {
+            "Saw\\SlimPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Konstantin Korolenko",
+            "email": "sawnet@mail.ru"
+        }
+    ],
+    "require": {}
+}
